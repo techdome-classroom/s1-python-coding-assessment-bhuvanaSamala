@@ -18,4 +18,4 @@ class Solution:
                     dfs(i, j)
         return island_count
                     
-        return 0
+        
