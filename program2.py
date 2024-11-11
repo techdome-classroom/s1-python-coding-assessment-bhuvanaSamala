@@ -19,4 +19,3 @@ def decode_message( s: str, p: str) -> bool:
 
     return dp[m][n]
   
-        return False
